@@ -1,0 +1,11 @@
+1). Create a new conda environment
+
+2). install the requirements file using pip install -r requirements.txt
+
+3). Create a file name as Procfile
+    (There is no extension to this file and 'P' should be capital)
+
+4). Initialize your project as git project
+git init
+
+5). Now follow the same steps as you have done before.
